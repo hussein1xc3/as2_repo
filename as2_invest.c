@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Hussein Saad
+
 int main(void)
 {
   float initial, rate, contribution, interest, balance;
