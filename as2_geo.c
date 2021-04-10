@@ -1,6 +1,6 @@
-#include <stdio.h>
-
 // Hussein Saad
+
+#include <stdio.h>
 
 // define the area/volume functions
 double square_area(double side) { return side * side; }
